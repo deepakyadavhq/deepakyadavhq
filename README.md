@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Yadav
 - 👀 I’m interested in Web Dev, Data Science and Machine Learning
-- 🌱 I’m currently pursing my Btech in CSE(AI&ML)
+- 🌱 I’m currently pursing Btech in CSE(AI&ML)
 - 📫 Mail me : nero58.deepak@gmail.com
 
 <!---
