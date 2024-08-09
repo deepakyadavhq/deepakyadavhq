@@ -1,4 +1,4 @@
-![Top Doodle](/files/top.png)
+![Top Doodle](top.png)
 
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h5 align="center">Final Year Computer Science Student at MDU,Rohtak</h5>
