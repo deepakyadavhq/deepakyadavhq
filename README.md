@@ -1,5 +1,4 @@
 ![Top Doodle](top.png)
-
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h5 align="center">Final Year Computer Science Student at MDU,Rohtak</h5>
 <h3 align="center">Currently working as Full Stack Developer at a startup</h3>
