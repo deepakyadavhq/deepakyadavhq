@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
-<h3 align="center">Full Time working as Full Stack Developer</h3>
-<h3 align="center">Final Year Computer Science Student at MDU,Rohtak.</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h3 align="center">Final Year Computer Science Student at MDU,Rohtak</h3>
+<h3 align="center">Currently working as Full Stack Developer at a startup</h3>
+<p align="center">🛠️ Leading the digital transformation of their legacy offline infrastructure. This includes architecting a scalable e-commerce platform, developing a comprehensive admin panel with role-based access control, and integrating APIs for seamless backend operations, all while ensuring the system is optimized for high availability and security. 🛠️</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
