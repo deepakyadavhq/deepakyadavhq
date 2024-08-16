@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deepakyadav67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepakyadav67" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepakyadav67/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png?f=webp&w=256" alt="deepakyadav67" height="70" width="80" /></a>
+<a href="https://x.com/sthreefourm" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png?f=webp&w=256" alt="sthreefourm" height="70" width="80" /></a>
 <a href="https://www.linkedin.com/in/deepakyadav67/" target="blank">
  
 <i class="fa-brands fa-x-twitter"></i>
