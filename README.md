@@ -24,17 +24,13 @@
 
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
-<br><br>
-
-- 🔭 I’m currently working on **mylaptop**🙏
+<br>
 
 - 🌱 I’m currently learning **Devops, Web3**
 
 - 💬 Ask me about **Python, NodeJS** and literally anything
 
 - 📫 How to reach me **deepakyadav.workmail@gmail.com**
-
-- ⚡ Fun fact **I can think...**
 
 <br>
 <h3 align="left">Connect with me:</h3>
