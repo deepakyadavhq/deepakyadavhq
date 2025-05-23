@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Devops, Web3**
 
-- 💬 Ask me about **Python, NodeJS** and literally anything
+- 💬 Ask me about **Python, NodeJS** 
 
 - 📫 How to reach me **deepakyadav.workmail@gmail.com**
 
